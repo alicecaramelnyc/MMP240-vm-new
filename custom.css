@@ -1,0 +1,167 @@
+.background-img {
+    
+    height: 100vh;
+
+    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    
+    background-position: center center;
+
+    background-attachment: fixed;
+}
+
+#intro #intro-text {
+    margin-top: 45%;
+}
+#featured_1 {
+    background-image: url(img/featuredimages/1_feature.jpg);
+}
+#featured_2 {
+    background-image: url(img/featuredimages/2_feature.jpg);
+}
+#featured_3 {
+    background-image: url(img/featuredimages/3_feature.jpg);
+}
+#featured_4 {
+    background-image: url(img/featuredimages/4_feature.jpg);
+}
+#featured_5 {
+    background-image: url(img/featuredimages/5_feature.jpg)
+}
+#featured_8 {
+    background-image: url(img/featuredimages/8_feature.jpg)
+}
+#featured_9 {
+    background-image: url(img/featuredimages/9_feature.jpg)
+}
+
+footer{
+    background-color: #EEEEEE;
+    
+    margin: 0;
+    
+    padding: 20% 0;
+}
+
+footer h6{
+    font-family: "helvetica neue";
+    
+    font-weight: 300;
+    color: #4c4c4c;
+}
+
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+    margin: 2em 10em;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-weight: 200;
+}
+
+.navbar-default .navbar-nav>li>a {
+    font-size: 0.7em;
+    color: white;
+    padding: 0 3px;
+    margin: 15px 3px;
+    border: solid 1px white;
+}
+
+.intro {
+    height: 140vh;
+    background-color: #353535;
+}
+
+h1{
+    color: #A9A9A9;
+    margin-top: 35%;
+}
+
+h2{
+    color: #A9A9A9;
+    margin-top: 5%;
+}
+
+h3{
+    color: #A9A9A9;
+}
+
+#tagline h1{
+    margin-top: 50%;
+    margin-bottom: 50%;
+}
+
+#founder{
+    background-color: white;
+}
+
+#founder>div:first-child{
+    margin-top: 20%;
+}
+
+    #featured-gallery > div{
+    padding-right:0;
+    padding-left:0;
+    }
+
+     #featured{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+
+
+@media (min-width: 768px) { 
+    #featured-gallery > div{
+    padding-right:0 !important;
+    padding-left:0 !important;
+    }
+
+
+    }
+
+    h1{
+        font-size: 1.6em;
+        margin-top: 60%;
+    }
+
+    h3{
+        font-size: 1.2em;
+        margin-top: 30%;
+    }
+
+    #founder img{
+        margin-top: 40%;
+    }
+}
+
+
+
+#work #carousel-example-generic{
+    margin:0 0 5em 0;
+}
+
+
+
+#work #carouselcontainer{
+    padding: 0;
+}
+
+
+#work #carousel-example-generic{
+    margin:0 0 5em 0;
+}
+
+
+
+#work #carouselcontainer{
+    padding: 0;
+}
+
